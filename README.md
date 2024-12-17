@@ -4,6 +4,5 @@ This is a Data Analysis Notebook to explore the data from Kaggle on "Climate Cha
 
 For more info click on the jupyter notebook or the poster provided. 
 
-http://www.klimastatistik.de/post8.html
 
 
